@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## - 🌱 I’m currently learning Artificial Intelligence at Utrecht University
+###### - 🌱 I’m currently learning Artificial Intelligence at Utrecht University
 
 <!--
 **LuukvanDrunen/LuukvanDrunen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
